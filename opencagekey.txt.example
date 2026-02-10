@@ -1,0 +1,12 @@
+YOUR_OPENCAGE_API_KEY_HERE
+
+# Instructions:
+# 1. Get a free API key from https://opencagedata.com/
+# 2. Replace the text above with your actual API key
+# 3. Save this file as "opencagekey.txt" (remove the .example extension)
+# 4. The file should contain only your API key, nothing else
+#
+# Example:
+# 1234567890abcdef1234567890abcdef
+#
+# Note: This file is used by scripts/geocoding.py for optional geocoding features
